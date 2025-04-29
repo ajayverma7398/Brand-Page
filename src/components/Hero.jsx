@@ -8,8 +8,9 @@ const HeroSection = () => {
       <div className="hero-content">
         <h1>YOUR FEET DESERVE THE BEST</h1>
         <p>
-          YOUR FEET DESERVE THE BEST AND WE'RE HERE TO HELP YOU WITH OUR SHOES.
-          YOUR FEET DESERVE THE BEST AND WE'RE HERE TO HELP YOU WITH OUR SHOES.
+          "Your feet deserve comfort, style, and support — and we’re here to
+          deliver with our premium shoes. Your feet deserve nothing but the
+          best, and we’ve got just what they need!"
         </p>
 
         <div className="hero-btn">
